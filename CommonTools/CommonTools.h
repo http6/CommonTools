@@ -20,8 +20,8 @@
 
 
 
-#ifndef CommonTools_h
-#define CommonTools_h
+//#ifndef CommonTools_h
+//#define CommonTools_h
 
 
 #import "CommonDefine.h"
@@ -32,4 +32,5 @@
 #import "TabBarVC.h"
 #import "NavSuperVC.h"
 
-#endif /* CommonTools_h */
+//#endif /* CommonTools_h */
+
